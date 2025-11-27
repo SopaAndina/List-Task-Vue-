@@ -1,0 +1,1 @@
+import{_ as n,c as o,a,o as r}from"./index-BaOMuIYJ.js";const s={};function t(c,e){return r(),o("div",null,[...e[0]||(e[0]=[a("h2",null,"Acerca de",-1),a("p",null,"Esta es mi App de Tareas con Vue",-1)])])}const u=n(s,[["render",t]]);export{u as default};
